@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "527695276086",
+    "project_id": "minilearn-4ff54",
+    "storage_bucket": "minilearn-4ff54.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:527695276086:android:5e11dedc6431c797f11097",
+        "android_client_info": {
+          "package_name": "com.example.minilearn"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "527695276086-e7m05r9o372nkl0r8o0l9llnca8vcsck.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5W154OIDF_ZNL60lny0cGrAXT0vzk57M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "527695276086-e7m05r9o372nkl0r8o0l9llnca8vcsck.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

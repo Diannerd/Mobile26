@@ -1,0 +1,1 @@
+const String kApiBaseUrl = 'https://69707df578fec16a63fddd0b.mockapi.io';
