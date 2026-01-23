@@ -6,6 +6,13 @@ Aplikasi ini menyediakan fitur kursus, modul pembelajaran, kuis interaktif, sert
 
 MiniLearn dikembangkan sebagai Tugas Besar Individu Flutter dengan menerapkan REST API, Firebase, dan deployment multi-platform, sesuai dengan kriteria yang ditentukan.
 
+# Video Perbaikan Bagian Simpan Pergantian Username dan Foto Profil
+
+
+
+https://github.com/user-attachments/assets/b7e2cf2a-b3ef-4622-9d49-4646f4c784d6
+
+
 # 🎯 Tujuan Pengembangan
 
 Menerapkan konsep mobile development menggunakan Flutter
